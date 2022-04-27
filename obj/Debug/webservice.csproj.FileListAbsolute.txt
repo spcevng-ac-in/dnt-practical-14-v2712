@@ -1,0 +1,5 @@
+D:\dnt\webservice\webservice\bin\webservice.dll
+D:\dnt\webservice\webservice\bin\webservice.pdb
+D:\dnt\webservice\webservice\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\webservice\webservice\obj\Debug\webservice.dll
+D:\dnt\webservice\webservice\obj\Debug\webservice.pdb
